@@ -37,11 +37,11 @@
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-raaj/)
-- 📧 Email: rohitsinghrajput62020@gmail.com
-- 🌐 [GitHub Profile](https://github.com/Rohitt-Rajj)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-raaj/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitsinghrajput62020@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Rohitt-Rajj)
 
 ---
 
