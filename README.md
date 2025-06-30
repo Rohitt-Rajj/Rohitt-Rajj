@@ -1,49 +1,69 @@
-# 👋 Hi there, I'm Rohit Raj
+# 👋 Hello, I'm Rohit Raj
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rohitt-Rajj&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Rohitt-Rajj?label=Follow&style=social)
 
-### 💡 About Me
+### 🚀 About Me
 
 🎓 Final-year B.Tech CSE student | Specialization in Cloud Computing  
-🐧 Passionate about Linux, DevOps, and automation scripting  
-☁️ Building hands-on projects in Shell Scripting, MySQL, and AWS  
-📘 Learning daily through real-world simulations and system-level tools  
+🐧 Linux enthusiast with a passion for automation and system-level scripting  
+☁️ Exploring DevOps tools and cloud services like AWS, Docker & CI/CD  
+💡 I build real-world projects using Shell scripting, MySQL, and serverless architecture  
+🎯 Actively working toward a role in DevOps or system automation  
 
 ---
 
-### 🧠 Languages & Tools
+### 💻 Languages and Tools
 
-![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)  
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)  
-![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux)  
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws)  
-![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code)  
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
-### 🚀 Projects
+### 📂 Featured Projects
 
-- 🛠️ [Linux-Based Robot Shell Controller](https://github.com/Rohitt-Rajj/robot-shell-controller)  
-- ☁️ [Cloud-Based File Sharing Platform](https://github.com/Rohitt-Rajj/cloud-file-sharing)  
-- 🧮 [Student Result Management System (MySQL)](https://github.com/Rohitt-Rajj/mysql-student-result)
+#### 🔹 [Linux-Based Robot Shell Controller](https://github.com/Rohitt-Rajj/robot-shell-controller)
+- Simulates a robot using bash scripting and file-based sensor inputs.
+- Logs robot movements, handles obstacle detection, and supports automation with `cron`.
+
+#### 🔹 [Cloud-Based File Sharing Platform](https://github.com/Rohitt-Rajj/cloud-file-sharing)
+- Built using AWS S3, Cognito, CloudFront, and Amplify.
+- Enables secure file upload/download with encryption and access control.
+
+#### 🔹 [Student Result Management System (MySQL)](https://github.com/Rohitt-Rajj/mysql-student-result)
+- A SQL project to store and manage student marks and performance.
+- Uses `JOIN`, `GROUP BY`, `AVG()`, `SUM()` functions to generate reports.
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Secured **5th rank out of 2000+ participants** in a university hackathon  
+- 🧠 Built an **AI-based Legal Document Summarizer** using AWS and prompt engineering  
+- 🎁 Won a reward worth $100 for innovation and implementation
 
 ---
 
 ### 📫 Let's Connect
 
+- 📧 Email: rohit.raj@example.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 📧 Email: rohit.raj@example.com
+- 🌐 [GitHub Profile](https://github.com/Rohitt-Rajj)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohitt-Rajj&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitt-Rajj&layout=compact&theme=radical)
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohitt-Rajj&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitt-Rajj&layout=compact&theme=radical)
 
 ---
 
-> _"I believe in learning by doing. Every script I write brings me closer to solving real-world problems."_
+> _"I believe in solving real-world problems with simple, scalable solutions."_
